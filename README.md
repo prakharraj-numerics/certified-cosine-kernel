@@ -1,7 +1,5 @@
 # Certified High-Precision Cosine Kernel
 
-> **DRAFT — FOR REVIEW BEFORE PUBLIC RELEASE**
-
 Experimental high-precision software for repeated cosine evaluation on **exact dyadic (binary fixed-point) inputs**.
 
 The project evaluates a specialized cosine fast path against FLINT 3.6.0 `arb_cos`. In the currently validated workload, the kernel is approximately **1.98–1.99× faster at 5,000 decimal digits** and **1.57–1.58× faster at 20,000 decimal digits**, while every reported output meets a machine-checked interval-containment certificate.
@@ -73,4 +71,4 @@ It intentionally does **not** disclose source code, pseudocode, mathematical der
 
 ## Version
 
-Draft public package: **0.1.0-draft**
+Public package: **0.1.0**
