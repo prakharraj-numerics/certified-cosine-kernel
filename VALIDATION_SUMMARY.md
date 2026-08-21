@@ -1,7 +1,5 @@
 # Validation Summary
 
-> **DRAFT — FOR REVIEW BEFORE PUBLIC RELEASE**
-
 ## Per-output certification
 
 Every reported output is independently checked rather than accepted from timing measurements alone.
