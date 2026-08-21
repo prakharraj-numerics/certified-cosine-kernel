@@ -1,7 +1,5 @@
 # Benchmark Environment and Fairness
 
-> **DRAFT — FOR REVIEW BEFORE PUBLIC RELEASE**
-
 ## Documented environment
 
 - CPU: Intel(R) Xeon(R) Processor @ 2.10 GHz
