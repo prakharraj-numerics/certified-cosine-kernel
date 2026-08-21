@@ -1,7 +1,5 @@
 # Public Technical Overview
 
-> **DRAFT — FOR REVIEW BEFORE PUBLIC RELEASE**
-
 ## Purpose
 
 This project evaluates a specialized high-precision cosine kernel for **exact dyadic (binary fixed-point) inputs**.

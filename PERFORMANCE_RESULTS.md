@@ -1,7 +1,5 @@
 # Performance Results
 
-> **DRAFT — FOR REVIEW BEFORE PUBLIC RELEASE**
-
 The benchmark compares the current high-precision cosine kernel directly against FLINT 3.6.0 `arb_cos`.
 
 ## Final benchmark table

@@ -1,7 +1,5 @@
 # Supported Scope and Limitations
 
-> **DRAFT — FOR REVIEW BEFORE PUBLIC RELEASE**
-
 ## Validated input form
 
 The current evidence is for exact dyadic inputs represented as a **32-bit numerator over `2^32`**.
